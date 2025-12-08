@@ -1,6 +1,5 @@
-# Models and datasets
-models/
-Dataset/
+# Models and datasets (now tracked with Git LFS)
+
 
 .claude/
 
